@@ -1,7 +1,7 @@
 {
-  "name": "nigeria-locale",
+  "name": "expressjs-typescript-starter",
   "version": "1.0.0",
-  "description": "API shows you all of Nigeria’s regions, states, and local government areas(LGAs)",
+  "description": "A very basic starter for Express.js + TypeScript with Eslint and Prettier configured",
   "scripts": {
     "start": "TZ='UTC' node dist/server.js",
     "build": "npx tsc",
